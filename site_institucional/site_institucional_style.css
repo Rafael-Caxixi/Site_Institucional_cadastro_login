@@ -159,7 +159,7 @@ form button{
 .primeira_caixa {
     background-color: white;
     height: 450px;
-    width: 400px;
+    width: 33%;
    float: left;
 }
 
@@ -189,7 +189,7 @@ form button{
  .segunda_caixa {
      background-color:white;
      height: 450px;
-     width: 450px;
+     width: 33%;
      float: left;
  }
 
@@ -219,7 +219,7 @@ form button{
  .terceira_caixa {
     background-color: white;
     height: 450px;
-    width: 376px;
+    width: 34%;
 
     float: left;
  }
@@ -244,4 +244,10 @@ form button{
     width: 250px;
     text-align:center;
     margin-left: 12%;
+}
+
+.caixa_branca {
+    background-color: white;
+    width: 100%;
+    height: 70vh;
 }
